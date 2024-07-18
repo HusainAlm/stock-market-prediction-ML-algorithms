@@ -1,5 +1,5 @@
 # Stock Prediction using Machine Learning Algorithms
-The stock market is one of the most complicated and lucrative businesses. Predicting  stock  trends  is  a  cumbersome task,  as  the  stock  market  is  very  dynamic  and  composedof  various  factors.  The  main  factors  involved  are  Physical, Psychological, Rational, Irrational behavior, etc. Here, we have applied four ML algorithms to predict stock price. 
+The stock market is one of the most complicated and lucrative businesses. Predicting  stock  trends  is  a  cumbersome task,  as  the  stock  market  is  very  dynamic  and  composedof  various  factors.  The  main  factors  involved  are  Physical, Psychological, Rational, Irrational behavior, etc. Here, four ML algorithms to predict stock price were applied.
 ```
 1. Neural Network computation framework
 2. Time series analysis using ARIMA
@@ -8,7 +8,7 @@ The stock market is one of the most complicated and lucrative businesses. Predic
 
 ```
 ## Environment
-We use **Jupyter Notebook** to implement the mentioned models on Stock Market Data. 
+Vs Code were used. **Jupyter Notebook** to implement the mentioned models on Stock Market Data. 
 
 ## Importing Dependencies
 We imported some modules prior to the implementation, those are,
